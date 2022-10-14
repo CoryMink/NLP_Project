@@ -9,7 +9,7 @@ NFL and NCAA posts from Reddit. There are three jupyter notebooks:
 - EDA
 - modeling and evaluation
 
-What we used to build our models are
+Model: Pipeline and Gridsearch
 - Transformer: 
   - CountVectorizer
   - TfidfVectorizer
